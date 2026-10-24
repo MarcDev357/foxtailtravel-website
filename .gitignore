@@ -6,3 +6,6 @@ dist
 *.bak
 *.bak-*
 /.claude/
+.env
+.env.local
+*.tsbuildinfo
